@@ -2,7 +2,6 @@ import streamlit as st
 import requests
 from  streamlit_lottie import st_lottie
 
-import pyaudio
 
 
 # ---- HEADER ---- 
